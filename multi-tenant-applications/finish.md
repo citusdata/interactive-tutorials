@@ -1,0 +1,1 @@
+With this, we come to the end of our tutorial on using Citus to power a simple multi-tenant application. As a next step, you can look at the Distributing by Tenant ID section to see how you can model your own data for multi-tenancy.

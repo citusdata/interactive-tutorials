@@ -1,0 +1,39 @@
+{
+	"title": "Multi-tenant Applications",
+	"description": "Learn how to use Citus with multi-tenant applications",
+	"difficulty": "Intermediate",
+	"time": "5-10 minutes",
+	"details": {
+		"intro": {
+            "title": "Multi-tenant Applications",
+			"text": "intro.md"
+		},
+		"steps": [
+            {
+                "title": "Data model and sample data",
+                "text": "01-data-model-and-sample-data.md"
+            },
+            {
+                "title": "Creating tables",
+                "text": "02-creating-tables.md"
+            },
+            {
+                "title": "Distributing tables and loading data",
+                "text": "03-distributing-tables-and-loading-data.md"
+            },
+            {
+                "title": "Running queries",
+                "text": "04-running-queries.md"
+            }
+		],
+		"finish": {
+			"text": "finish.md"
+		}
+	},
+	"environment": {
+		"uilayout": "terminal"
+	},
+	"backend": {
+		"imageid": "ubuntu"
+	}
+}
